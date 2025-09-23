@@ -1,0 +1,66 @@
+body,main {
+    display: flex
+
+}
+body {
+
+    flex-direction: column ;
+     background-color:lch(86.54% 23.74 85.88);
+}
+main {
+    flex-direction: row;
+    flex:auto;
+    padding: 100 px;
+    gap: 20 px;
+}
+article {
+    flex:2;
+    overflow-y: auto
+
+
+}
+
+aside {
+    flex:1;
+    overflow-y: auto;
+    border: 2px  brown;
+    border-radius: 10px;
+    padding: 20px;}
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.logo {
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 36px;
+    border:chocolate 3px solid;
+    border-radius: 50%;
+    padding: 5px;
+    background-color:rgb(213, 98, 16);
+    margin-bottom: 100 px;
+
+}
+
+div {
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 36px;
+    color: rgb(126, 43, 13);
+
+
+}
+
+button {
+    background-color: rgb(9, 42, 77);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 0;
+    
+}
+button:hover {
+    background-color: rgb(0, 100, 210);
+}
