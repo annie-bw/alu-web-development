@@ -44,4 +44,7 @@ This web app helps users search for businesses by category or location, read rev
    git clone https://github.com/your-username/local-connect.git
    cd local-connect
 
+
+
+![Homepage Screenshot](../images/local-connect.png)
 <img src="//html_basic/images/local-connect.png" alt="Dashboard" width="500"/>
