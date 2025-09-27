@@ -19,7 +19,7 @@ let toCurrency = prompt("To: > ").toUpperCase().trim();
 let amount = parseFloat(prompt("Amount: > ").trim());
 
 // Validate currencies
-if (!currencies[fromCurrency] || !currencies[toCurrency]) {
+if (!currencies[fromCurrency] && !currencies[toCurrency]) {
   console.log("Unknown currency");
 } else if (isNaN(amount)) {
   console.log("The amount has to be a number");

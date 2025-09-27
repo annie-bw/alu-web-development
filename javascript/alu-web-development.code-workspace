@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "alu_regex-data-extraction--annie-bw-",
+			"path": "../../../../.vscode/alu_regex-data-extraction--annie-bw-"
+		},
+		{
+			"path": "../../../../.ipython/summative_draft"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"editor.formatOnSave": true,
+		"editor.wordWrap": "on",
+		"terminal.integrated.suggest.enabled": true,
+		"editor.quickSuggestions": {
+			"strings": "on",
+			"comments": "on"
+		},
+		"editor.suggest.snippetsPreventQuickSuggestions": true
+	}
+}
