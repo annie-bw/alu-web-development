@@ -47,4 +47,4 @@ This web app helps users search for businesses by category or location, read rev
 
 
 ![Homepage Screenshot](../images/local-connect.png)
-<img src="//html_basic/images/local-connect.png" alt="Dashboard" width="500"/>
+<img src="//html_basic/images/local-connect.png" alt="Dashboard" width="100"/>
